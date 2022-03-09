@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.nanosite.genexamples/org.nanosite.genexamples.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.nanosite.genexamples/sandbox/org.nanosite.genexamples.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
